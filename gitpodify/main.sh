@@ -5,8 +5,8 @@
 set -e
 
 # Title and body of the pull request(s) to be created
-title="'Gitpodifying' this repository"
-body="This is a pull request to 'gitpodify' this repositoy. <br />See this issue for more information and questions: https://github.com/jenkins-infra/helpdesk/issues/12345"
+title="Gitpodify repository"
+body="PR to add Gitpod configuration. Accommodates Java 17 requirement for VSC Language server"
 
 if ! command -v "multi-gitter" >/dev/null 2>&1
 then
