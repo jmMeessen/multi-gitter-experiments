@@ -15,35 +15,35 @@ repo:
   # - jenkinsci/testng-plugin-plugin
   # - jenkinsci/priority-sorter-plugin
   # - jenkinsci/nodelabelparameter-plugin
-  - jenkinsci/apache-httpcomponents-client-4-api-plugin
-  - jenkinsci/lockable-resources-plugin
-  - jenkinsci/jaxb-plugin
-  - jenkinsci/windows-slaves-plugin
-  - jenkinsci/run-condition-plugin
-  - jenkinsci/parameterized-trigger-plugin
-  - jenkinsci/conditional-buildstep-plugin
+  # - jenkinsci/apache-httpcomponents-client-4-api-plugin
+  # - jenkinsci/lockable-resources-plugin
+  # - jenkinsci/jaxb-plugin
+  # - jenkinsci/windows-slaves-plugin
+  # - jenkinsci/run-condition-plugin
+  # - jenkinsci/parameterized-trigger-plugin
+  # - jenkinsci/conditional-buildstep-plugin
   - jenkinsci/mercurial-plugin
-  - jenkinsci/gitlab-plugin
-  - jenkinsci/docker-java-api-plugin
-  - jenkinsci/docker-plugin
-  - jenkinsci/cvs-plugin
-  - jenkinsci/authorize-project-plugin
-  - jenkinsci/http-request-plugin
-  - jenkinsci/emailext-template-plugin
-  - jenkinsci/msbuild-plugin
+  # - jenkinsci/gitlab-plugin
+  # - jenkinsci/docker-java-api-plugin
+  # - jenkinsci/docker-plugin
+  # - jenkinsci/cvs-plugin
+  # - jenkinsci/authorize-project-plugin
+  # - jenkinsci/http-request-plugin
+  # - jenkinsci/emailext-template-plugin
+  # - jenkinsci/msbuild-plugin
   - jenkinsci/badge-plugin
-  - jenkinsci/gitlab-oauth-plugin
-  - jenkinsci/build-timestamp-plugin
-  - jenkinsci/github-oauth-plugin
-  - jenkinsci/configurationslicing-plugin
-  - jenkinsci/promoted-builds-plugin
-  - jenkinsci/m2release-plugin
-  - jenkinsci/disk-usage-plugin
-  - jenkinsci/global-build-stats-plugin
-  - jenkinsci/test-results-analyzer-plugin
-  - jenkinsci/backup-plugin
-  - jenkinsci/artifactdeployer-plugin
-  - jenkinsci/plot-plugin
-  - jenkinsci/versionnumber-plugin
-  - jenkinsci/job-restrictions-plugin
-  - jenkinsci/kubernetes-cd-plugin
+  # - jenkinsci/gitlab-oauth-plugin
+  # - jenkinsci/build-timestamp-plugin
+  # - jenkinsci/github-oauth-plugin
+  # - jenkinsci/configurationslicing-plugin
+  # - jenkinsci/promoted-builds-plugin
+  # - jenkinsci/m2release-plugin
+  # - jenkinsci/disk-usage-plugin
+  # - jenkinsci/global-build-stats-plugin
+  # - jenkinsci/test-results-analyzer-plugin
+  # - jenkinsci/backup-plugin
+  # - jenkinsci/artifactdeployer-plugin
+  # - jenkinsci/plot-plugin
+  # - jenkinsci/versionnumber-plugin
+  # - jenkinsci/job-restrictions-plugin
+  # - jenkinsci/kubernetes-cd-plugin
